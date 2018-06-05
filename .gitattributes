@@ -1,0 +1,2 @@
+*.html linguist-vendored
+# file to ensure github does not pick htl as language for project as it is doen in Python
